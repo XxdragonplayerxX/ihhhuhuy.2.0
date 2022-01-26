@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+h1{
+color : rgb(126, 255, 165)
+
+}
+h3{
+  color : rgb(255, 90, 206)
+  }
+canvas {
+  display: block;
+}
